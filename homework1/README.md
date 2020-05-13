@@ -1,7 +1,11 @@
-##Thousand Facial Landmarks
+## Thousand Facial Landmarks
+
 https://www.kaggle.com/c/made-thousand-facial-landmarks
 
-###Что я сделала/помогло:
+![](screenshot_result1.PNG)
+![](screenshot_result2.PNG)
+
+### Что я сделала/помогло:
 
 1) Использовала предобученную модель resnext50_32x4d из torch
 
@@ -13,7 +17,7 @@ https://www.kaggle.com/c/made-thousand-facial-landmarks
 
 5) Не забыла, что нужно усреднять не итоговые файлы для отправки моделей, которые уже округлены, а усреднять результаты до округления.
 
-###Комментарии:
+### Комментарии:
 
 Не успела дообучить даже вторую модель, так как дедлайн был очень близок
 
